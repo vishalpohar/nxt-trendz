@@ -16,6 +16,7 @@ const Cart = () => (
       const onRemoveAll = () => {
         removeAllCartItems()
       }
+
       // TODO: Update the functionality to remove all the items in the cart
 
       return (
